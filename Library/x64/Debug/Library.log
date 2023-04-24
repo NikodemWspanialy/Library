@@ -1,0 +1,6 @@
+﻿  Library.cpp
+C:\PRJs\CPLUSPLUS_PRJs\REPOs2\Library\Menu.h(186,37): warning C4101: 'lenght': unreferenced local variable
+  Menu.cpp
+C:\PRJs\CPLUSPLUS_PRJs\REPOs2\Library\Menu.h(186,37): warning C4101: 'lenght': unreferenced local variable
+  Generating Code...
+  Library.vcxproj -> C:\PRJs\CPLUSPLUS_PRJs\REPOs2\Library\x64\Debug\Library.exe
