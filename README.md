@@ -1,3 +1,3 @@
 # Library
 
-1 sem project. Library in console. User Interface.
+Second sem project. Library in console. User Interface.
